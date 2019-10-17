@@ -1,2 +1,2 @@
 # Physically-Simulated-Rigid-Solids
-Simulation of piece of cloth formed by several spring-mass objects. Made in Unity, using Hooke's law physics.
+Simulation of rigid solids. Made in Unity, using soft and hard constraints physics
