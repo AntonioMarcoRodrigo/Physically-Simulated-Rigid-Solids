@@ -1,2 +1,6 @@
-Simulation of piece of cloth formed by several spring-mass objects. Made in Unity, using Hooke's law physics.
+MyWork:
 
+Completed the following scripts:
+Assets/Source/P2/PointConstraint.cs
+Assets/Source/P2/PhysicsManager.cs
+Assets/Source/P2/RigidBody.cs
